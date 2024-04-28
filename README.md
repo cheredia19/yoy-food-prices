@@ -34,4 +34,10 @@ Between August 2007 and July 2008, **food prices rose 96.79% in Afghanistan**, w
 
 Haiti is the only country in the Americas included in the dataset. This country, which is currently on the brink of a civil war, recorded year-on-year food inflation of 91.98% in the period from December 2021 to November 2022.
 
+<FlatUiTable
+  data={{
+    csv: 'data.csv'
+  }}
+ />
+
 **No countries from Europe or Oceania** have been included in the data compilation.
