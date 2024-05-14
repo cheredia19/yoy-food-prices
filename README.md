@@ -10,7 +10,7 @@ No other country reached a **three-digit YoY food CPI change** since January 200
 
 ### Africa
 
-**17 of the 25 counties are located in Africa**. Somalia almost doubled its food prices almost seventeen years ago. Below is the detail of the highest YoY increases per nation:
+**17 of the 25 countries are located in Africa**. Somalia almost doubled its food prices almost seventeen years ago. Below is the detail of the highest YoY increases per nation:
 
 -	Somalia: 97.72% annual food inflation from July 2007 to June 2008.
 -	Nigeria: 77.39% in 2016.
@@ -31,6 +31,8 @@ No other country reached a **three-digit YoY food CPI change** since January 200
 ### Rest of the world
 
 Between August 2007 and July 2008, **food prices rose 96.79% in Afghanistan**, while the increase in Myanmar was 71.26% from July 2022 to June 2023. Among the Asian countries, Yemen's CPI food change from March 2021 to February 2020 was 52,32%, Laos' (39,52%, between February 2022 and January 2023), and Iraq's (12,38%, from June 2021 to May 2022).
+
+
 
 Haiti is the only country in the Americas included in the dataset. This country, which is currently on the brink of a civil war, recorded year-on-year food inflation of 91.98% in the period from December 2021 to November 2022.
 
