@@ -32,7 +32,7 @@ No other country reached a **three-digit YoY food CPI change** since January 200
 
 Between August 2007 and July 2008, **food prices rose 96.79% in Afghanistan**, while the increase in Myanmar was 71.26% from July 2022 to June 2023. Among the Asian countries, Yemen's CPI food change from March 2021 to February 2020 was 52,32%, Laos' (39,52%, between February 2022 and January 2023), and Iraq's (12,38%, from June 2021 to May 2022).
 
-## Highest food inflation per country
+## Highest food inflation per country (%)
 <PlotlyBarChart
   data={{
     url: 'highest_inflation.csv'
