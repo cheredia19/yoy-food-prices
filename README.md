@@ -60,5 +60,5 @@ Haiti is the only country in the Americas included in the dataset. This country,
   }}
   title="From January 2008 to October 2023"
   xAxis="Country"
-  yAxis="Max_yoy_food_inflation"
+  yAxis="Avg_food_inflation"
 />
