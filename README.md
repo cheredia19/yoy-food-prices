@@ -56,7 +56,7 @@ Haiti is the only country in the Americas included in the dataset. This country,
 ## Average food inflation per country (%)
 <PlotlyBarChart
   data={{
-    url: 'highest_inflation.csv'
+    url: 'average_inflation.csv'
   }}
   title="From January 2008 to October 2023"
   xAxis="Country"
