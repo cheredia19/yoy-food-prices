@@ -1,6 +1,6 @@
 # Monthly food price YoY inflation in selected countries
 
-South Sudan recorded a year-over-year food price inflation of 363.1% from December 2015 to November 2026, according to the [monthly food price inflation estimates by country](https://microdata.worldbank.org/index.php/catalog/4509#study_desc1684331430702), compiled by Bo Pieter Johannes Andrée for the World Bank since 2008.
+South Sudan recorded a year-over-year food price inflation of 363.1% from December 2015 to November 2016, according to the [monthly food price inflation estimates by country](https://microdata.worldbank.org/index.php/catalog/4509#study_desc1684331430702), compiled by Bo Pieter Johannes Andrée for the World Bank since 2008.
 
 This dataset includes YoY food CPI changes from 25 fragile countries. These include Afghanistan, Burkina Faso, Burundi, Cameroon, Central African Republic, Chad, Congo Democratic Republic, Congo Republic, Gambia, Guinea-Bissau, Haiti, Iraq, Lao PDR, Lebanon, Liberia, Mali, Mozambique, Myanmar, Nigeria, Somalia, South Sudan, Sudan, Syrian Arab Republic, and Yemen.
 
@@ -37,6 +37,7 @@ Between August 2007 and July 2008, **food prices rose 96.79% in Afghanistan**, w
   data={{
     url: 'highest_inflation.csv'
   }}
+  title="From January 2008 to October 2023"
   xAxis="Country"
   yAxis="Max_yoy_food_inflation"
 />
