@@ -48,6 +48,6 @@ Haiti is the only country in the Americas included in the dataset. This country,
 ## YoY food inflation per country
 <FlatUiTable
   data={{
-    url: 'data.csv'
+    url: 'monthly_data.csv'
   }}
 />
